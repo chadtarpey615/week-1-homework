@@ -1,3 +1,4 @@
+![project](assets/images/digital-marketing-meeting.jpg)
 # HORISEON
 
 # Purpose
@@ -26,10 +27,12 @@ THEN I find a concise, descriptive title
 # Programs Built With
 * HTML
 * CSS
+* Markdown
+* Visual Studio Code
 
 # Website
-
-https://github.com/chadtarpey615/week-1-homework/blob/master/README.md
+* www.horison.com
+* https://github.com/chadtarpey615/week-1-homework/blob/master/README.md
 
 # Contribution
 Made with ❤️️ by Horiseon
