@@ -32,8 +32,7 @@ THEN I find a concise, descriptive title
 
 # Website
 * www.horison.com
-* https://github.com/chadtarpey615/week-1-homework/blob/master/README.md
-
+*  https://chadtarpey615.github.io/week-1-homework/
 # Contribution
 Made with ❤️️ by Horiseon
 Chad T. 
